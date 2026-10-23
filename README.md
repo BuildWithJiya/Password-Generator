@@ -1,7 +1,6 @@
 # 🔐 Random Password Generator
 > *Never use an insecure password again.*
 A fast, lightweight, client-side password generator built with a modern dark-mode UI.
-![Preview](./assets/preview.png)
 ---
 ## ⚡ Features
 - **Batch Generation:** Generates 4 strong passwords at once.

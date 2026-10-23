@@ -1,14 +1,11 @@
-# Password-Generator
-Fast, secure, and customizable random password generator built with a clean dark-mode UI.
 # 🔐 Random Password Generator
-
 > *Never use an insecure password again.*
-
-A modern, fast, and customizable password generator designed with a sleek dark-mode interface.
-
-### ✨ Features
-- 🎲 **Multi-Password Generation**: Generates 4 secure, high-entropy passwords simultaneously in a single click.
-- 📏 **Custom Length**: Specify exact password length on the fly.
-- 🔣 **Character Controls**: Easy toggles for special characters and uppercase letters.
-- 📋 **One-Click Copy**: Instantly copy any generated password to your clipboard.
-- 🌙 **Dark-Mode Native**: High-contrast, accessibility-friendly design.
+A fast, lightweight, client-side password generator built with a modern dark-mode UI.
+![Preview](./assets/preview.png)
+---
+## ⚡ Features
+- **Batch Generation:** Generates 4 strong passwords at once.
+- **Custom Length:** Set any character length with instant output.
+- **Rule Toggles:** Easily enable/disable **Special Characters** and **Uppercase Letters**.
+- **One-Click Copy:** Click any password pill to copy it instantly.
+- **100% Client-Side:** Uses the Web Crypto API (`crypto.getRandomValues`); passwords never leave your browser.
